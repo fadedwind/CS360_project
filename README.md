@@ -2,7 +2,6 @@
 # 样本最优选择系统
 
 
-
 ## 项目描述 | Project Description
 一个基于 Python 的样本最优化选择系统，集成了 OR-Tools CP-SAT 算法、SQLite 数据库存储及 Tkinter GUI 界面。  
 A Python-based optimal sample selection system integrating OR-Tools CP-SAT algorithm, SQLite database storage, and Tkinter GUI.
